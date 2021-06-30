@@ -17,7 +17,7 @@
 
 
 
-    //alert("test");
+    alert("test");
 
 
 htlatex("C: \Users\ITA8 - TN04\OneDrive - IT - Akademie Dr.Heuer GmbH\git\2021 - 06 -30_Latex_Experiment\files\LatexBeispielFile.tex");
